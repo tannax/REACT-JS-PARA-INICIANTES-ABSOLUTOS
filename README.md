@@ -41,7 +41,7 @@ O eBook está disponível em formato PDF. Para acessá-lo:
 
 ## 📄 Acesse o eBook
 
-O eBook pode ser baixado [aqui](./https://github.com/tannax/REACT-JS-PARA-INICIANTES-ABSOLUTOS/blob/1d4f8aa19e9e98eee0b152a9704859456d6229f2/Ebook.pdf).
+O eBook pode ser baixado [aqui](./Ebook.pdf).
 
 2. **Abra o arquivo** com um leitor de PDF para começar a leitura.
 
